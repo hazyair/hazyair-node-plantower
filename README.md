@@ -125,7 +125,7 @@ Result example:
 ## License
 
 ISC License
-
+</br>
 Copyright (c) 2019 Marcin Sielski
-
+</br>
 Copyright (c) 2016-2018 Ethan Zhang
