@@ -1,3 +1,5 @@
+'use strict';
+
 const PARTICLE_CONCENTRATION_PM1_0_NORMAL = {
     key: 'concentration_pm1.0_normal',
     unit: 'µg/m^3',

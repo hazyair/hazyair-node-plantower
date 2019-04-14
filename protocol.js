@@ -1,4 +1,5 @@
 'use strict';
+
 const SerialPort = require('serialport');
 const PlantowerParser = require('./parser-plantower');
 const bluebird = require('bluebird');

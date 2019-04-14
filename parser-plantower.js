@@ -1,4 +1,5 @@
 'use strict';
+
 const Transform = require('stream').Transform;
 const debugTrans = require('debug')('PT_PROTO.TRANS');
 

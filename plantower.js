@@ -1,5 +1,6 @@
+'use strict';
+
 const Protocol = require('./protocol');
-const debug = require('debug')('PT');
 const device = require('./device');
 
 var Plantower = function (model, dev) {

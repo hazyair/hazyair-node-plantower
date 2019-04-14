@@ -3,7 +3,7 @@
 ## Install
 
 ```javascript
-npm install --save plantower
+npm install hazyair-plantower -g
 ```
 
 ### Commandline usage
@@ -124,4 +124,7 @@ Result example:
 
 ## License
 
-ISC
+ISC License
+
+Copyright (c) 2019 Marcin Sielski
+Copyright (c) 2016-2018 Ethan Zhang

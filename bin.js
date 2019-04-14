@@ -1,7 +1,8 @@
 #!/usr/bin/env node
+'use strict';
 
 const argv = require('yargs').
-    usage('%0 [args]').
+    usage('$0 [args]').
     example('$0 -d /dev/ttyUSB0 -m PMS1003', 'count the lines in the given file').
     alias('m', 'model').
     describe('m', 'device model').

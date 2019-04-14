@@ -1,3 +1,5 @@
+'use strict';
+
 const field = require('./field');
 
 const NORMAL_PMSXXXX = [
