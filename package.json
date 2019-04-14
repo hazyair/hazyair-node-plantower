@@ -1,13 +1,13 @@
 {
   "name": "hazyair-plantower",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "",
   "main": "plantower.js",
   "bin": {
     "plantower": "./bin.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",

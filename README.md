@@ -127,4 +127,5 @@ Result example:
 ISC License
 
 Copyright (c) 2019 Marcin Sielski
+
 Copyright (c) 2016-2018 Ethan Zhang
