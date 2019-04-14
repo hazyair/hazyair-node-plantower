@@ -1,7 +1,7 @@
 {
   "name": "hazyair-plantower",
   "version": "1.2.1",
-  "description": "",
+  "description": "Library for Plantower sensors.",
   "main": "plantower.js",
   "bin": {
     "plantower": "./bin.js"
